@@ -1,7 +1,7 @@
 ### About me
   - 💻 Engineering informatics and IS student
   - 🤖 Learning different languages (C++, C#, Java...)
-  - 🥷 CyberSecurity enthusiast
+  - :trollface: CyberSecurity enthusiast
 
 ### Skills
 [![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
