@@ -1,5 +1,5 @@
 ### About me
-  - 💻 Engineering informatics and IS student
+  - 💻 Computer Engineering and IS student
   - 🤖 Learning different languages (C++, C#, Java...)
   - :trollface: CyberSecurity enthusiast
 
